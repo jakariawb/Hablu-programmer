@@ -38,5 +38,10 @@ console.log("totile Uses =",totlePencils/pebcilPurUse);
 let totiletMany = 500;
 let woistMany = 75;
 let totleCount = totiletMany / woistMany;
-console.log("totile count =", totleCount)
+console.log("totile count =", totleCount);
+var userName = 'jjk';
+console.log(userName);
+var username = 'jk';
+console.log(username);
+
 
