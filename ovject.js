@@ -1,4 +1,3 @@
-var myInfo = {YourName:"jakaria", YourNumber: 01401813863, YourVlaise:"pirojpur"}
+var myInfo = {YourName:"jakaria",  YourVlaise:"pirojpur"}
 console.log(myInfo.YourName);
 console.log(myInfo.YourVlaise);
-console.log(myInfo.YourNumber)
