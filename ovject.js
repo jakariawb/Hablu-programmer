@@ -13,3 +13,10 @@ for(var w = 1; w<=20; w++){
     console.log(newObj.YourName1);
     console.log(newObj)
 }
+function say (name, masseg){
+       return{
+        name,
+        masseg
+       }
+}
+console.log(say('jakaria','hello jakaria'))
