@@ -14,7 +14,7 @@ for(Amiarray in arr){
 }
 
 // -----for in loop-----
-const obj = {
+ export let obj = {
     Name: "jakaria",
     age:"34",
     profe:"programmer"
