@@ -47,3 +47,4 @@ let info = class{
 }
 let infoType = new info ("jakaria","012401020","jakariaja@gmail.com")
 console.log(infoType)
+console.log(infoType.name)

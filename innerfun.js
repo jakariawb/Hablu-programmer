@@ -86,4 +86,38 @@ mingo.food();
 mingo.food();
 mingo.food();
 
+const neme = (function(){
+   let Number = 1;
+   return{
+    name2:function(){
+        Number++;
+        console.log(Number)
+    },
+    name3:function(){
+        Number--;
+        console.log(Number)
+    },
+    
+    name4:function(){
+        Number--;
+        console.log(number)
+    } ,
+    number5 : function(){
 
+        Number++;
+        console.log(Number)
+      } ,
+      number5:function(){
+        Number--;
+        console.log(Number)
+      }
+    }
+})();
+neme.name2()
+neme.name3()
+neme.number5()
+neme.number5()
+neme.number5()
+neme.number5()
+neme.number5()
+neme.name3()

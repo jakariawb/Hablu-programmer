@@ -2,7 +2,7 @@
 
 // ____for of loop_____
 
-const array = [2,5,6,7,8,6];
+const array = [2,23,4,3,4,5,6,7,8,9];
 for(newArray of array){
     console.log(newArray)
 }
@@ -14,12 +14,14 @@ for(Amiarray in arr){
 }
 
 // -----for in loop-----
- export let obj = {
+  let obj = {
     Name: "jakaria",
     age:"34",
     profe:"programmer"
 }
 for (myInfo in obj){
-    console.log(myInfo ,obj)
-    console.log()
+    console.log(myInfo)
+    console.log(obj)
+    
+    
 }

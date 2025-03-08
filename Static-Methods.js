@@ -1,4 +1,5 @@
 class book {
+        //funcation diklear 
     fun (){
         console.log("Hey jakaria");
     }
@@ -23,3 +24,11 @@ class java {
     }
 }
 java.fun3()
+java.fun3()
+
+class payton {
+    static fun(){
+        console.log('ami nai','jibon taborbat')
+    }
+}
+payton.fun()
