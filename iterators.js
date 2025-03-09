@@ -26,4 +26,4 @@ let jaka1 =  [1,2,3,4,5,10];
 jaka1.forEach((x)=>console.log(x));
 
 let poprty = ['array' ,12, 22,33,44]
-poprty.forEach((x)=>console.log(x))
+poprty.forEach((x)=>console.log(x + 8 + 1))
